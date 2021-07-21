@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/main.51901004.chunk.js",
+    "main.js.map": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/main.51901004.chunk.js.map",
+    "runtime-main.js": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/runtime-main.80f4cabc.js",
+    "runtime-main.js.map": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/runtime-main.80f4cabc.js.map",
+    "static/js/2.c4a82eea.chunk.js": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/2.c4a82eea.chunk.js",
+    "static/js/2.c4a82eea.chunk.js.map": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/2.c4a82eea.chunk.js.map",
+    "static/js/3.c7b8170d.chunk.js": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/3.c7b8170d.chunk.js",
+    "static/js/3.c7b8170d.chunk.js.map": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/3.c7b8170d.chunk.js.map",
+    "index.html": "/git@github.com:JessicaJeyanthiran/myportfolio.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c4a82eea.chunk.js.LICENSE.txt": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/js/2.c4a82eea.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git@github.com:JessicaJeyanthiran/myportfolio.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80f4cabc.js",
+    "static/js/2.c4a82eea.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.51901004.chunk.js"
+  ]
+}
